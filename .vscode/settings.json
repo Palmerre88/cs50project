@@ -1,0 +1,17 @@
+{
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true,
+    "html.autoClosingTags": true,
+    "javascript.referencesCodeLens.enabled": false,
+    "html.format.contentUnformatted": "",
+    "html.format.extraLiners": "",
+    "[django-html]": {
+        "editor.linkedEditing": true
+    },
+    "[html]": {
+        "editor.linkedEditing": true
+    },
+    "editor.linkedEditing": true,
+    "html-css-class-completion.enableEmmetSupport": true
+}
